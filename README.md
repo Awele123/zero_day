@@ -1,1 +1,1 @@
-vagrant project
+hello ubuntu
